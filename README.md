@@ -1,5 +1,7 @@
 # Página de Sorvetes em React
 
+<img src="img-home.png">
+
 Bem-vindo ao projeto de Página de Sorvetes em React! Este projeto foi desenvolvido com base nas informações do curso da Devmedia.
 
 ## Pré-requisitos
